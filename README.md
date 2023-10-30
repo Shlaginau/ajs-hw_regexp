@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/03ywn4erw5cidlst?svg=true)](https://ci.appveyor.com/project/Shlaginau/ajs-hw-regexp)
+
 # Домашнее задание к лекции «Регулярные выражения»
 ---
 
